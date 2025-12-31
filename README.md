@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono
-  &size=30
-  &pause=1000
-  &color=36BCF7
-  &center=true
-  &vCenter=true
-  &width=850
-  &lines=Welcome+to+my+GitHub+Profile!;I'm+Alkumait+Ghanem;C%23+Backend+Developer;Clean+Architecture+%26+SOLID+Principles"
-  alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Alkumait%20Ghanem&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%23%20Backend%20Developer&descAlignY=55" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;I'm+Alkumait+Ghanem;C%23+Backend+Developer;Clean+Architecture+and+SOLID" />
+</p>
+
+<p align="center">
+✨ 🚀 💻 🧠 ✨
 </p>
 
 <h1 align="center">Alkumait Ghanem</h1>
@@ -95,11 +94,20 @@ I strongly believe in:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alkumait10&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkumait10&layout=compact&theme=tokyonight" height="170"/>
+  <a href="https://github.com/Alkumait10">
+    <img src="https://img.shields.io/github/followers/Alkumait10?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Alkumait10?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Alkumait10?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Alkumait10/Alkumait10">
+    <img src="https://img.shields.io/github/last-commit/Alkumait10/Alkumait10?style=for-the-badge" />
+  </a>
 </p>
 
 ---
