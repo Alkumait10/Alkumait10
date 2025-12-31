@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h2>👋 أهلاً، أنا الكميت غانم</h2>
+<h2>👋 Alkumait Ghanem</h2>
 <h3>💻 C# Backend Developer | .NET Enthusiast</h3>
 
 <details>
@@ -44,7 +44,7 @@
 
 public class AboutMe
 {
-    public string Name => "الكميت غانم";
+    public string Name => "Alkumait Ghanem";
     public string Role => "C# Backend Developer";
 
     public string[] MainStack =
