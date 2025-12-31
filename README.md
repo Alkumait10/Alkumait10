@@ -1,87 +1,98 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Alkumait Ghanem</h1>
+<h3 align="center">C# Backend Developer</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<h2>👋 Alkumait Ghanem</h2>
-<h3>💻 C# Backend Developer | .NET Enthusiast</h3>
-
-<details>
-<p><strong><summary> 🔊 Busy coding & vibing to </summary></strong></p>
-
-🎧 Music while building scalable backend systems
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlkumaitGhanem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 Tools & Technologies I Use
+## 🚀 About Me
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+I'm a **C# Backend Developer** and a self-taught learner with a strong passion for building scalable, clean, and maintainable backend systems.  
+I focus on writing clean code while following **SOLID principles** and **Clean Architecture** concepts.
+
+Currently, I’m improving my backend engineering skills through continuous learning and practice, aiming to build robust APIs and real-world systems using modern .NET technologies.
 
 ---
 
-```csharp
-// About Me - Backend Style 😄
+## 🧠 Technical Skills
 
-public class AboutMe
-{
-    public string Name => "Alkumait Ghanem";
-    public string Role => "C# Backend Developer";
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-    public string[] MainStack =
-    {
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Entity Framework Core",
-        "RESTful APIs"
-    };
+### ⚙️ Backend & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-    public string[] Databases =
-    {
-        "SQL Server",
-        "PostgreSQL",
-        "Redis"
-    };
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-    public string[] Tools =
-    {
-        "Docker",
-        "Git",
-        "Postman",
-        "Swagger",
-        "Linux",
-        "Visual Studio",
-        "VS Code"
-    };
+### 🧩 Software Engineering Concepts
+- Clean Architecture  
+- SOLID Principles  
+- Object-Oriented Programming (OOP)  
+- Separation of Concerns  
+- Code Maintainability & Readability  
 
-    public string[] Concepts =
-    {
-        "Clean Architecture",
-        "SOLID Principles",
-        "Dependency Injection",
-        "Authentication & Authorization",
-        "JWT",
-        "Caching",
-        "Background Jobs"
-    };
-}
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Current Focus
+- Strengthening backend fundamentals  
+- Mastering Clean Architecture in .NET  
+- Writing scalable and maintainable APIs  
+- Improving problem-solving and system design skills  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.facebook.com/Alkumait10" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/alkumait30" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.threads.com/alkumait30" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+<a href="https://x.com/Alkomait10" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://t.me/Alkumait10" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://wa.me/963984464518" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@Alkumait" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlkumaitGhanem&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlkumaitGhanem&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🧭 Future Portfolio Direction
+
+This GitHub profile will evolve into a full backend portfolio including:
+- Real-world ASP.NET Core projects  
+- Clean Architecture–based systems  
+- API-focused repositories  
+- Documentation & best practices  
+
+📌 *Stay tuned — more projects coming soon.*
