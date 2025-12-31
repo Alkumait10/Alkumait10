@@ -1,18 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alkumait Ghanem</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=JetBrains+Mono
+  &size=30
+  &pause=1000
+  &color=36BCF7
+  &center=true
+  &vCenter=true
+  &width=850
+  &lines=Welcome+to+my+GitHub+Profile!;I'm+Alkumait+Ghanem;C%23+Backend+Developer;Clean+Architecture+%26+SOLID+Principles"
+  alt="Typing SVG" />
+</p>
+
+<h1 align="center">Alkumait Ghanem</h1>
 <h3 align="center">C# Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlkumaitGhanem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Alkumait10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **C# Backend Developer** and a self-taught learner with a strong passion for building scalable, clean, and maintainable backend systems.  
-I focus on writing clean code while following **SOLID principles** and **Clean Architecture** concepts.
+I’m a **C# Backend Developer** and a self-taught learner with a solid understanding of backend fundamentals.  
+I focus on building **clean, maintainable, and scalable backend systems** using modern .NET technologies.
 
-Currently, I’m improving my backend engineering skills through continuous learning and practice, aiming to build robust APIs and real-world systems using modern .NET technologies.
+I strongly believe in:
+- Writing clean and readable code  
+- Applying **SOLID Principles**  
+- Designing systems with **Clean Architecture**  
+- Continuous learning and improvement  
 
 ---
 
@@ -35,7 +52,7 @@ Currently, I’m improving my backend engineering skills through continuous lear
 - SOLID Principles  
 - Object-Oriented Programming (OOP)  
 - Separation of Concerns  
-- Code Maintainability & Readability  
+- Maintainable & Scalable Code  
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,10 +60,10 @@ Currently, I’m improving my backend engineering skills through continuous lear
 ---
 
 ## 📌 Current Focus
-- Strengthening backend fundamentals  
-- Mastering Clean Architecture in .NET  
-- Writing scalable and maintainable APIs  
-- Improving problem-solving and system design skills  
+- Deepening backend development knowledge  
+- Mastering ASP.NET Core  
+- Applying Clean Architecture in real scenarios  
+- Improving system design & problem-solving skills  
 
 ---
 
@@ -89,10 +106,10 @@ Currently, I’m improving my backend engineering skills through continuous lear
 
 ## 🧭 Future Portfolio Direction
 
-This GitHub profile will evolve into a full backend portfolio including:
-- Real-world ASP.NET Core projects  
+This GitHub profile is the foundation of my future backend portfolio, which will include:
+- ASP.NET Core backend projects  
 - Clean Architecture–based systems  
-- API-focused repositories  
-- Documentation & best practices  
+- RESTful APIs  
+- Well-documented repositories  
 
-📌 *Stay tuned — more projects coming soon.*
+📌 *More projects will be added as I continue learning and building.*
