@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;I'm+Alkumait+Ghanem;C%23+Backend+Developer;Clean+Architecture+and+SOLID" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;I'm+Alkumait+Ghanem;C%23+Backend+Developer;3-Tier+Architecture+and+SOLID" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I focus on building **clean, maintainable, and scalable backend systems** using 
 I strongly believe in:
 - Writing clean and readable code  
 - Applying **SOLID Principles**  
-- Designing systems with **Clean Architecture**  
+- Designing systems with **3-Tier Architecture**  
 - Continuous learning and improvement  
 
 ---
@@ -47,7 +47,7 @@ I strongly believe in:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🧩 Software Engineering Concepts
-- Clean Architecture  
+- 3-Tier Architecture  
 - SOLID Principles  
 - Object-Oriented Programming (OOP)  
 - Separation of Concerns  
@@ -61,7 +61,7 @@ I strongly believe in:
 ## 📌 Current Focus
 - Deepening backend development knowledge  
 - Mastering ASP.NET Core  
-- Applying Clean Architecture in real scenarios  
+- Applying 3-Tier Architecture in real scenarios  
 - Improving system design & problem-solving skills  
 
 ---
@@ -113,7 +113,7 @@ I strongly believe in:
 
 This GitHub profile is the foundation of my future backend portfolio, which will include:
 - ASP.NET Core backend projects  
-- Clean Architecture–based systems  
+- 3-Tier Architecture–based systems  
 - RESTful APIs  
 - Well-documented repositories  
 
