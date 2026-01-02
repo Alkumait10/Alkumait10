@@ -119,29 +119,30 @@ I strongly believe in:
 
 ## 📂 Featured Projects
 
-> 📚 **[Library Management System](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)**  
+> 📚 **[Library Management System](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)** — ⏳ *Not Started*  
 > Desktop application built using **.NET Framework** and **3-Tier Architecture**.  
 > Focused on clean design, separation of concerns, and backend fundamentals.
 
-> 🏥 **[Clinic Management System](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)**  
+> 🏥 **[Clinic Management System](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)** — ⏳ *Not Started*  
 > Desktop-based system for managing patients, appointments, and medical records.  
 > Designed to practice layered architecture and business rule implementation.
 
-> 🥋 **[Karate Club Management System](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)**  
+> 🥋 **[Karate Club Management System](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)** — ⏳ *Not Started*  
 > System for managing members, subscriptions, training schedules, and payments.  
 > Focused on clean structure, domain logic, and maintainable code.
 
-> 🚗 **[Car Rental Management System](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)**  
+> 🚗 **[Car Rental Management System](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)** — ⏳ *Not Started*  
 > Desktop application for managing vehicles, customers, rentals, and contracts.  
 > Built to practice CRUD operations and multi-layer application design.
 
-> 🛒 **[Online Store Management System](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)**  
+> 🛒 **[Online Store Management System](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)** — ⏳ *Not Started*  
 > Backend-oriented system for managing products, categories, and orders.  
 > Designed as a foundation for future REST API integration.
 
-> 🏦 **[Bank Management System](https://github.com/Alkumait10/BankManagementSystem.Desktop)**  
+> 🏦 **[Bank Management System](https://github.com/Alkumait10/BankManagementSystem.Desktop)** — ⏳ *Not Started*  
 > Desktop-based banking system for managing accounts, customers, and transactions.  
 > Focused on business rules, validation, and clean 3-Tier Architecture.
+
 
 
 
