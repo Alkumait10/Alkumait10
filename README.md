@@ -116,12 +116,19 @@ I strongly believe in:
 
 ---
 
-## 🧭 Future Portfolio Direction
 
-This GitHub profile is the foundation of my future backend portfolio, which will include:
-- ASP.NET Core backend projects  
-- 3-Tier Architecture–based systems  
-- RESTful APIs  
-- Well-documented repositories  
+## 📂 Featured Projects
 
-📌 *More projects will be added as I continue learning and building.*
+> 📘 **[Library Management System](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)**  
+> Desktop application built with 3-Tier Architecture using .NET Framework.  
+> Focused on clean design, separation of concerns, and backend fundamentals.
+
+> 📗 **[Inventory Management System](#)**  
+> Desktop-based system for managing products, categories, and stock logic.  
+> Designed to practice layered architecture and business rules.
+
+> 📙 **[Student Management System](#)**  
+> Practice project focused on CRUD operations and structured data access.  
+> Built with clean separation between UI, business logic, and data layers.
+
+
