@@ -119,16 +119,30 @@ I strongly believe in:
 
 ## 📂 Featured Projects
 
-> 📘 **[Library Management System](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)**  
+> 📚 **[Library Management System](https://github.com/USERNAME/LibraryManagementSystem.Desktop)**  
 > Desktop application built with 3-Tier Architecture using .NET Framework.  
 > Focused on clean design, separation of concerns, and backend fundamentals.
 
-> 📗 **[Inventory Management System](#)**  
-> Desktop-based system for managing products, categories, and stock logic.  
+> 🏥 **[Clinic Management System](https://github.com/USERNAME/ClinicManagementSystem.Desktop)**  
+> Desktop-based system for managing patients, appointments, and medical records.  
 > Designed to practice layered architecture and business rules.
 
-> 📙 **[Student Management System](#)**  
-> Practice project focused on CRUD operations and structured data access.  
-> Built with clean separation between UI, business logic, and data layers.
+> 🥋 **[Karate Club Management System](https://github.com/USERNAME/KarateClubManagementSystem.Desktop)**  
+> System for managing members, subscriptions, training schedules, and payments.  
+> Focused on clean structure and domain logic separation.
+
+> 🚗 **[Car Rental Management System](https://github.com/USERNAME/CarRentalManagementSystem.Desktop)**  
+> Desktop application for managing vehicles, customers, rentals, and contracts.  
+> Built to practice CRUD operations and multi-layer architecture.
+
+> 🛒 **[Online Store Management System](https://github.com/USERNAME/OnlineStoreManagementSystem.Desktop)**  
+> Backend-oriented system for managing products, categories, and orders.  
+> Designed as a foundation for future REST API integration.
+
+> 🏦 **[Bank Management System](https://github.com/USERNAME/BankManagementSystem.Desktop)**  
+> Desktop-based banking system for managing accounts, customers, transactions, and balances.  
+> Focused on business rules, validation, and clean 3-Tier Architecture.
+
+
 
 
