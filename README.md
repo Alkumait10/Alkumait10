@@ -120,29 +120,64 @@ I strongly believe in:
 
 ## 📂 Featured Projects
 
-> 📚 **[Library Management System](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)** — ⏳ *Not Started*  
-> Desktop application built using **.NET Framework** and **3-Tier Architecture**.  
-> Focused on clean design, separation of concerns, and backend fundamentals.
+<div style="display: flex; flex-direction: column; gap: 14px;">
 
-> 🏥 **[Clinic Management System](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)** — ⏳ *Not Started*  
-> Desktop-based system for managing patients, appointments, and medical records.  
-> Designed to practice layered architecture and business rule implementation.
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    📚 <a href="https://github.com/Alkumait10/LibraryManagementSystem.Desktop"><b>Library Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      Desktop-based system for managing books, members, and borrowing operations.<br/>
+      Designed to practice clean architecture, separation of concerns, and backend fundamentals.
+    </p>
+  </div>
 
-> 🥋 **[Karate Club Management System](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)** — ⏳ *Not Started*  
-> System for managing members, subscriptions, training schedules, and payments.  
-> Focused on clean structure, domain logic, and maintainable code.
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    🏥 <a href="https://github.com/Alkumait10/ClinicManagementSystem.Desktop"><b>Clinic Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      Desktop-based system for managing patients, appointments, and medical records.<br/>
+      Designed to practice layered architecture and business rule implementation.
+    </p>
+  </div>
 
-> 🚗 **[Car Rental Management System](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)** — ⏳ *Not Started*  
-> Desktop application for managing vehicles, customers, rentals, and contracts.  
-> Built to practice CRUD operations and multi-layer application design.
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    🥋 <a href="https://github.com/Alkumait10/KarateClubManagementSystem.Desktop"><b>Karate Club Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      System for managing members, subscriptions, training schedules, and payments.<br/>
+      Focused on clean structure, domain logic, and maintainable code.
+    </p>
+  </div>
 
-> 🛒 **[Online Store Management System](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)** — ⏳ *Not Started*  
-> Backend-oriented system for managing products, categories, and orders.  
-> Designed as a foundation for future REST API integration.
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    🚗 <a href="https://github.com/Alkumait10/CarRentalManagementSystem.Desktop"><b>Car Rental Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      Desktop-based system for managing vehicles, customers, rentals, and contracts.<br/>
+      Built to practice CRUD operations and multi-layer application design.
+    </p>
+  </div>
 
-> 🏦 **[Bank Management System](https://github.com/Alkumait10/BankManagementSystem.Desktop)** — ⏳ *Not Started*  
-> Desktop-based banking system for managing accounts, customers, and transactions.  
-> Focused on business rules, validation, and clean 3-Tier Architecture.
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    🛒 <a href="https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop"><b>Online Store Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      Backend-oriented system for managing products, categories, and orders.<br/>
+      Designed as a foundation for future REST API integration.
+    </p>
+  </div>
+
+  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
+    🏦 <a href="https://github.com/Alkumait10/BankManagementSystem.Desktop"><b>Bank Management System</b></a>
+    — ⏳ <i>Not Started</i>
+    <p>
+      Desktop-based banking system for managing accounts, customers, and transactions.<br/>
+      Focused on business rules, validation, and clean 3-Tier Architecture.
+    </p>
+  </div>
+
+</div>
+
 
 
 
