@@ -120,7 +120,7 @@ I strongly believe in:
 
 ## 📂 Featured Projects
 
-[![Library](https://img.shields.io/badge/📚%20LIBRARY%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)
+[![Library](https://img.shields.io/badge/📚%20LIBRARY%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
@@ -129,7 +129,7 @@ Focused on clean design, separation of concerns, and backend fundamentals.
 
 ---
 
-[![Clinic](https://img.shields.io/badge/🏥%20CLINIC%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)
+[![Clinic](https://img.shields.io/badge/🏥%20CLINIC%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
@@ -138,7 +138,7 @@ Designed to practice layered architecture and business rule implementation.
 
 ---
 
-[![Karate](https://img.shields.io/badge/🥋%20KARATE%20CLUB%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)
+[![Karate](https://img.shields.io/badge/🥋%20KARATE%20CLUB%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
@@ -147,7 +147,7 @@ Focused on clean structure, domain logic, and maintainable code.
 
 ---
 
-[![Car](https://img.shields.io/badge/🚗%20CAR%20RENTAL%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)
+[![Car](https://img.shields.io/badge/🚗%20CAR%20RENTAL%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
@@ -156,7 +156,7 @@ Built to practice CRUD operations and multi-layer application design.
 
 ---
 
-[![Store](https://img.shields.io/badge/🛒%20ONLINE%20STORE%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)
+[![Store](https://img.shields.io/badge/🛒%20ONLINE%20STORE%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
@@ -165,7 +165,7 @@ Designed as a foundation for future REST API integration.
 
 ---
 
-[![Bank](https://img.shields.io/badge/🏦%20BANK%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/BankManagementSystem.Desktop)
+[![Bank](https://img.shields.io/badge/🏦%20BANK%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/BankManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
 ![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
