@@ -120,63 +120,61 @@ I strongly believe in:
 
 ## 📂 Featured Projects
 
-<div style="display: flex; flex-direction: column; gap: 14px;">
+[![Library](https://img.shields.io/badge/📚%20LIBRARY%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    📚 <a href="https://github.com/Alkumait10/LibraryManagementSystem.Desktop"><b>Library Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      Desktop-based system for managing books, members, and borrowing operations.<br/>
-      Designed to practice clean architecture, separation of concerns, and backend fundamentals.
-    </p>
-  </div>
+Desktop-based system for managing books, members, and borrowing operations.  
+Focused on clean design, separation of concerns, and backend fundamentals.
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    🏥 <a href="https://github.com/Alkumait10/ClinicManagementSystem.Desktop"><b>Clinic Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      Desktop-based system for managing patients, appointments, and medical records.<br/>
-      Designed to practice layered architecture and business rule implementation.
-    </p>
-  </div>
+---
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    🥋 <a href="https://github.com/Alkumait10/KarateClubManagementSystem.Desktop"><b>Karate Club Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      System for managing members, subscriptions, training schedules, and payments.<br/>
-      Focused on clean structure, domain logic, and maintainable code.
-    </p>
-  </div>
+[![Clinic](https://img.shields.io/badge/🏥%20CLINIC%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    🚗 <a href="https://github.com/Alkumait10/CarRentalManagementSystem.Desktop"><b>Car Rental Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      Desktop-based system for managing vehicles, customers, rentals, and contracts.<br/>
-      Built to practice CRUD operations and multi-layer application design.
-    </p>
-  </div>
+System for managing patients, appointments, and medical records.  
+Designed to practice layered architecture and business rule implementation.
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    🛒 <a href="https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop"><b>Online Store Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      Backend-oriented system for managing products, categories, and orders.<br/>
-      Designed as a foundation for future REST API integration.
-    </p>
-  </div>
+---
 
-  <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 14px;">
-    🏦 <a href="https://github.com/Alkumait10/BankManagementSystem.Desktop"><b>Bank Management System</b></a>
-    — ⏳ <i>Not Started</i>
-    <p>
-      Desktop-based banking system for managing accounts, customers, and transactions.<br/>
-      Focused on business rules, validation, and clean 3-Tier Architecture.
-    </p>
-  </div>
+[![Karate](https://img.shields.io/badge/🥋%20KARATE%20CLUB%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
 
-</div>
+System for managing members, subscriptions, training schedules, and payments.  
+Focused on clean structure, domain logic, and maintainable code.
+
+---
+
+[![Car](https://img.shields.io/badge/🚗%20CAR%20RENTAL%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
+
+System for managing vehicles, customers, rentals, and contracts.  
+Built to practice CRUD operations and multi-layer application design.
+
+---
+
+[![Store](https://img.shields.io/badge/🛒%20ONLINE%20STORE%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
+
+Backend-oriented system for managing products, categories, and orders.  
+Designed as a foundation for future REST API integration.
+
+---
+
+[![Bank](https://img.shields.io/badge/🏦%20BANK%20MANAGEMENT%20SYSTEM-555555?style=for-the-badge)](https://github.com/Alkumait10/BankManagementSystem.Desktop)
+![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
+![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
+
+System for managing accounts, customers, and transactions.  
+Focused on business rules, validation, and clean 3-Tier Architecture.
+
+
+
+
 
 
 
