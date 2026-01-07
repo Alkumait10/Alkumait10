@@ -122,7 +122,7 @@ I strongly believe in:
 
 [![Library](https://img.shields.io/badge/📚%20LIBRARY%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
+![Status](https://img.shields.io/badge/In%20Progress-FFFF00?style=for-the-badge)
 
 Desktop-based system for managing books, members, and borrowing operations.  
 Focused on clean design, separation of concerns, and backend fundamentals.
