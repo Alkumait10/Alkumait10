@@ -131,7 +131,7 @@ Focused on clean design, separation of concerns, and backend fundamentals.
 
 [![Clinic](https://img.shields.io/badge/🏥%20CLINIC%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
+![Status](https://img.shields.io/badge/In%20Progress-FFFF00?style=for-the-badge)
 
 System for managing patients, appointments, and medical records.  
 Designed to practice layered architecture and business rule implementation.
