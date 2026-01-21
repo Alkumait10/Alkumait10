@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://bit.ly/AlkumaitPortfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-111827?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-111827?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
 
