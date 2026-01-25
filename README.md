@@ -140,7 +140,7 @@ Designed to practice layered architecture and business rule implementation.
 
 [![Karate](https://img.shields.io/badge/🥋%20KARATE%20CLUB%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)
 ![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/In%20Progress-FFFF00?style=for-the-badge)
+![Status](https://img.shields.io/badge/Complete-00D100?style=for-the-badge)
 
 System for managing members, subscriptions, training schedules, and payments.  
 Focused on clean structure, domain logic, and maintainable code.
