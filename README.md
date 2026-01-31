@@ -14,16 +14,12 @@
 <h3 align="center">C# Backend Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alkumait10&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/alkumait-ghanem/" target="_blank" title="LinkedIn Profile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
+  </a>
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://bit.ly/AlkumaitPortfolio" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-111827?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>
 
 ## 🚀 About Me
 
@@ -48,6 +44,7 @@ I strongly believe in:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Windows Services](https://img.shields.io/badge/Windows_Services-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -62,7 +59,19 @@ I strongly believe in:
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🧱 Architectural Mindset
+
+- Layered & 3-Tier Architecture  
+- Clear Separation between Domain, Business, and Data Access  
+- Focus on Business Rules before UI  
+- Code readability over cleverness  
+- Systems designed for future growth  
 
 ---
 
@@ -102,83 +111,15 @@ I strongly believe in:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Alkumait10">
-    <img src="https://img.shields.io/github/followers/Alkumait10?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alkumait10&theme=github-compact&hide_border=true" />
+</p>
 
-  <a href="https://github.com/Alkumait10?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Alkumait10?style=for-the-badge" />
-  </a>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Alkumait10" alt="GitHub Contribution Chart" />
+</p>
 
-  <a href="https://github.com/Alkumait10/Alkumait10">
-    <img src="https://img.shields.io/github/last-commit/Alkumait10/Alkumait10?style=for-the-badge" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alkumait10&theme=github" />
 </p>
 
 ---
-
-
-## 📂 Featured Projects
-
-[![Library](https://img.shields.io/badge/📚%20LIBRARY%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/LibraryManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/Complete-00D100?style=for-the-badge)
-
-Desktop-based system for managing books, members, and borrowing operations.  
-Focused on clean design, separation of concerns, and backend fundamentals.
-
----
-
-[![Clinic](https://img.shields.io/badge/🏥%20CLINIC%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/ClinicManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/Complete-00D100?style=for-the-badge)
-
-System for managing patients, appointments, and medical records.  
-Designed to practice layered architecture and business rule implementation.
-
----
-
-[![Karate](https://img.shields.io/badge/🥋%20KARATE%20CLUB%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/KarateClubManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/Complete-00D100?style=for-the-badge)
-
-System for managing members, subscriptions, training schedules, and payments.  
-Focused on clean structure, domain logic, and maintainable code.
-
----
-
-[![Car](https://img.shields.io/badge/🚗%20CAR%20RENTAL%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/CarRentalManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
-
-System for managing vehicles, customers, rentals, and contracts.  
-Built to practice CRUD operations and multi-layer application design.
-
----
-
-[![Store](https://img.shields.io/badge/🛒%20ONLINE%20STORE%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/OnlineStoreManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
-
-Backend-oriented system for managing products, categories, and orders.  
-Designed as a foundation for future REST API integration.
-
----
-
-[![Bank](https://img.shields.io/badge/🏦%20BANK%20MANAGEMENT%20SYSTEM-222222?style=for-the-badge)](https://github.com/Alkumait10/BankManagementSystem.Desktop)
-![Desktop](https://img.shields.io/badge/DESKTOP-888888?style=for-the-badge)
-![Status](https://img.shields.io/badge/NOT%20STARTED-FF0000?style=for-the-badge)
-
-System for managing accounts, customers, and transactions.  
-Focused on business rules, validation, and clean 3-Tier Architecture.
-
-
-
-
-
-
-
-
-
-
-
