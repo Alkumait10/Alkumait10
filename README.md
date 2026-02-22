@@ -85,9 +85,6 @@ I strongly believe in:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.facebook.com/Alkumait10" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
 <a href="https://t.me/Alkumait10" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
